@@ -10,10 +10,10 @@
  -->
 
 <!-- PROJECT NAME -->
-#  REPOSITORY TEMPLATE
+# 🐍 PERSONALITY GROUPING ML W/ PYTHON
 
 <!-- DESCRIPTION -->
-This project are created for using as template for others repository.
+In this repo I will create a personality study with a data base from kaggle named 'Big Five Personality Test'.
 
 
 
